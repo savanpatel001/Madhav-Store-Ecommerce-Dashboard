@@ -144,7 +144,7 @@ Customer-wise Sales
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `ECommerce_Sales_Dashboard.pbix` in Microsoft Power BI Desktop.
+2. Open `SALSE PROJECT.pbix` in Microsoft Power BI Desktop.
 3. If required, update the CSV file paths.
 4. Review the Power Query transformations.
 5. Explore the dashboard using the Quarter and State filters.
