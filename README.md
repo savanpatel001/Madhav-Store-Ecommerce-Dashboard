@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** built to analyze e-commerce sales performa
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Images/dashboard-preview.png)
+![E-Commerce Sales Dashboard](Images/Dashboard.png)
 
 ## 📌 Project Overview
 
@@ -141,23 +141,6 @@ Payment Mode Distribution
 Customer-wise Sales
 ```
 
-## 📁 Project Structure
-
-```text
-E-Commerce-Sales-Dashboard/
-│
-├── README.md
-│
-├── Data/
-│   ├── Details.csv
-│   └── Orders.csv
-│
-├── Dashboard/
-│   └── ECommerce_Sales_Dashboard.pbix
-│
-└── Images/
-    └── dashboard-preview.png
-```
 
 ## 🚀 How to Use
 
@@ -191,7 +174,7 @@ E-Commerce-Sales-Dashboard/
 - Used Power Query for data cleaning and transformation and DAX for KPI and business metric calculations.
 - Designed interactive visualizations and filters to identify regional, product-level, customer, and monthly performance trends.
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Savan Patel**
 
