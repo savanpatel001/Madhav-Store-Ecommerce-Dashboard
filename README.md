@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** built to analyze e-commerce sales performa
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Madhav-Store-Ecommerce-Dashboard/Images/Dashboard.png)
+![E-Commerce Sales Dashboard](Madhav Store Ecommerce Dashboard/Images/Dashboard.png)
 
 ## 📌 Project Overview
 
